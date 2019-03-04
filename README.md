@@ -15,6 +15,7 @@ http://www.twimemachine.com/user/AI_junk88_takah/ <br>
 ## bot化
 https://twittbot.net<br>
 ここで複数行入力で一括登録<br>
+(ここもよさそう　https://metabirds.net/admin/bot_random.php)<br>
 
 ## 補足
 ちゃんとbot化したければAPI取得の申請が必要（リプの対応まで可能）<br>
