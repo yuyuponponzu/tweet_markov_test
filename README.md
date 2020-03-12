@@ -4,6 +4,11 @@
 ## ツイートの取得
 http://www.twimemachine.com/user/AI_junk88_takah/ <br>
 ここで全ツイートを取得（全部コピーしてる）<br>
+<br>
+2020.03.10追記
+使えなくなってました<br>
+twitterからtweetデータをダウンロードし， tweet.jsを https://17number.github.io/tweet-js-loader/ でcsv化
+その後， python extract_for_csv.py > tweet.txt でツイートを生成する
 
 ## AI(ではないけど，マルコフ連鎖)によるツイート生成
 1. tweet.txt というテキストファイルに，コピーしたツイートを全部張る<br>
