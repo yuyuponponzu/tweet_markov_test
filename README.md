@@ -10,7 +10,7 @@ http://www.twimemachine.com/user/AI_junk88_takah/ <br>
 twitterからtweetデータをダウンロードし， tweet.jsを https://17number.github.io/tweet-js-loader/ でcsv化
 その後， python extract_for_csv.py > tweet.txt でツイートを生成する
 
-## AI(ではないけど，マルコフ連鎖)によるツイート生成
+## マルコフ連鎖によるツイート生成
 1. tweet.txt というテキストファイルに，コピーしたツイートを全部張る<br>
 1. preproc_txt.pyでnew_tweet.txt(簡単にする為に日本語以外の文字や数字を全て除外，もっと良いのを作りたいならここを弄ればちゃんとできる)<br>
 1. make_dict.pyでマルコフ連鎖用の辞書作成<br>
